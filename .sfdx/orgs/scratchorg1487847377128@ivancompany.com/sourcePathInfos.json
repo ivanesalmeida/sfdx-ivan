@@ -1,0 +1,1985 @@
+[
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 476,
+            "modifiedTime": 1487848083000,
+            "changeTime": 1487848083000,
+            "contentHash": "a0c195acee33c2d5dd7092dd460f5221944fbc57"
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/applications",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/applications",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "0f324ff30429959b768a269e8cc982ab638c2574",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/applications/DreamHouse.app-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/applications/DreamHouse.app-meta.xml",
+            "isDirectory": false,
+            "size": 437,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "aa58bfdbae2d2be027f881d0adfe1598f15519f6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 578,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "b6760b55955114e706ed195a5e77a6f55b3e267b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery",
+            "isDirectory": true,
+            "size": 272,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "bf744de2a1cdabcf808953ff79ea79da84471745",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/Gallery.cmp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/Gallery.cmp",
+            "isDirectory": false,
+            "size": 931,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "51d29ee0ff12a28fa904578b51de6750bf8d5766",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/Gallery.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/Gallery.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/Gallery.css",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/Gallery.css",
+            "isDirectory": false,
+            "size": 470,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "4554e3efbea1b2b3a0e9e5287c26a0f340cef039",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/Gallery.design",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/Gallery.design",
+            "isDirectory": false,
+            "size": 61,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "51c48c18c41e6bf6af186caaedd61ba443ddf3ee",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/GalleryController.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/GalleryController.js",
+            "isDirectory": false,
+            "size": 989,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "940ef568f702f7fdecfef6398a632fff7c74177b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/GalleryHelper.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Gallery/GalleryHelper.js",
+            "isDirectory": false,
+            "size": 555,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "8fc63c1f813701b487c4b008a0878f6ce0838687",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/IQPictureUploader",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/IQPictureUploader",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "0fb0c0bed27816896fa713739e6d896086fa4bad",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/IQPictureUploader/IQPictureUploader.cmp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/IQPictureUploader/IQPictureUploader.cmp",
+            "isDirectory": false,
+            "size": 1730,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "d3bbbbd121b6685ab5841662312f3d71df031e9b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/IQPictureUploader/IQPictureUploader.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/IQPictureUploader/IQPictureUploader.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "2d9e9e8fe6b94e72fe732778071187cb916400c8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/IQPictureUploader/IQPictureUploader.css",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/IQPictureUploader/IQPictureUploader.css",
+            "isDirectory": false,
+            "size": 1268,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "d05cc393b124e9344113673d291358214ec1ae6a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/IQPictureUploader/IQPictureUploaderController.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/IQPictureUploader/IQPictureUploaderController.js",
+            "isDirectory": false,
+            "size": 2091,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "3118b2aab373f348ba1537ecea6bf36a43c8d906",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map",
+            "isDirectory": true,
+            "size": 306,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "09c5025d58e92a2209ba092cff89ec91f9f89a17",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/Map.cmp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/Map.cmp",
+            "isDirectory": false,
+            "size": 757,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "02ee332d2e5068f84a01f35515614cf37935901d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/Map.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/Map.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/Map.css",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/Map.css",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "806bf66fd5df779bd0a2439aaa285e110fe00b9b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/Map.design",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/Map.design",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "3e24018912bcd0d6053a0b4188ffd033adb95a6c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/MapController.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/MapController.js",
+            "isDirectory": false,
+            "size": 557,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "51caa67b919f62dade87ff5f7e845bea0b9c320a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/MapHelper.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/MapHelper.js",
+            "isDirectory": false,
+            "size": 668,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "252efd5185573d8862beb90f54ad01276b86c770",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/MapRenderer.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/Map/MapRenderer.js",
+            "isDirectory": false,
+            "size": 1041,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "3ad4068375c37a87ff2867d1affe2209085c0cb4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorer",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorer",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "f53e366a31ce72a5b32661a810de120eaecb7f40",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorer/PropertyExplorer.cmp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorer/PropertyExplorer.cmp",
+            "isDirectory": false,
+            "size": 400,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "eda7aa695b584b5b0b9ec773962186813994e32f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorer/PropertyExplorer.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorer/PropertyExplorer.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorer/PropertyExplorer.css",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorer/PropertyExplorer.css",
+            "isDirectory": false,
+            "size": 60,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "3d824553922a2a64fc5613911fcd16e2ad5fbacd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorer/PropertyExplorerController.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorer/PropertyExplorerController.js",
+            "isDirectory": false,
+            "size": 60,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "9fc7736232d1d9d7a40c4cea1d6b22e712d8f8b1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorerApp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorerApp",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "892d92c368434fff0a4a48f664f18e1047c6fb5f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorerApp/PropertyExplorerApp.app",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorerApp/PropertyExplorerApp.app",
+            "isDirectory": false,
+            "size": 73,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "4b5be95361a080370417ef9e168061c856e9b1c2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorerApp/PropertyExplorerApp.app-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorerApp/PropertyExplorerApp.app-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorerApp/PropertyExplorerAppController.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyExplorerApp/PropertyExplorerAppController.js",
+            "isDirectory": false,
+            "size": 61,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "3096f5fd0351fe6950ccd2e25be116c8f1b666dc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "fa81ccb8b913703b15d9a746f846d5ad81460e56",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList/PropertyList.cmp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList/PropertyList.cmp",
+            "isDirectory": false,
+            "size": 1118,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "3cd445c2cf847ecc82e4c9c02dca849c1436b80a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList/PropertyList.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList/PropertyList.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList/PropertyList.css",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList/PropertyList.css",
+            "isDirectory": false,
+            "size": 301,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "bee0a6749d4a4364aa2e204e1e0ce7e275dbad9e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList/PropertyListController.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList/PropertyListController.js",
+            "isDirectory": false,
+            "size": 801,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "990d4d9667ad9b76ae65026271a664414168c0e2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList/PropertyListHelper.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyList/PropertyListHelper.js",
+            "isDirectory": false,
+            "size": 735,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "97b7d022369d5a9f90e4c853eb8d96b38602cedb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListHeader",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListHeader",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "780a0744ab7c90967257405ae9eb247176fe0bb0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListHeader/PropertyListHeader.cmp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListHeader/PropertyListHeader.cmp",
+            "isDirectory": false,
+            "size": 3765,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "e0c03891154cef00dd284efa6c21320171cb63f7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListHeader/PropertyListHeader.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListHeader/PropertyListHeader.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListItem",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListItem",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "a3eebb8aa5bef7757afc8b2347bca0e7b3f0d254",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListItem/PropertyListItem.cmp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListItem/PropertyListItem.cmp",
+            "isDirectory": false,
+            "size": 636,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "224168894335cd7bfee2fd252bb9390930eea938",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListItem/PropertyListItem.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListItem/PropertyListItem.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListItem/PropertyListItem.css",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListItem/PropertyListItem.css",
+            "isDirectory": false,
+            "size": 656,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "551ab2d92877026ffad5add54f87133c6b671281",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListItem/PropertyListItemController.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyListItem/PropertyListItemController.js",
+            "isDirectory": false,
+            "size": 254,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "23a544d9b734163d4f8d6433b967128856e926c5",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPageChange",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPageChange",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "5878298708e7a449b9357add42ecb5e8bbace05d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPageChange/PropertyPageChange.evt",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPageChange/PropertyPageChange.evt",
+            "isDirectory": false,
+            "size": 127,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "46438829e3ae1af67ef18df83931fd5a0566699b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPageChange/PropertyPageChange.evt-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPageChange/PropertyPageChange.evt-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPaginator",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPaginator",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "a77d9248600264bc0e8f16fe4125b773993a06dd",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.cmp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.cmp",
+            "isDirectory": false,
+            "size": 1301,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "99e59215a33cd40893b26da48e3eacaa86419c94",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.css",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPaginator/PropertyPaginator.css",
+            "isDirectory": false,
+            "size": 516,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "3b0b4a78187630a97fb7828b6b20ce73458051f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPaginator/PropertyPaginatorController.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPaginator/PropertyPaginatorController.js",
+            "isDirectory": false,
+            "size": 364,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "91869fdede80723f03705d43234574746f492cff",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSelectionChange",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSelectionChange",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "5b3594c2a416f099d32702de9e3c5e25bdc2200b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSelectionChange/PropertyPriceSelectionChange.evt",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSelectionChange/PropertyPriceSelectionChange.evt",
+            "isDirectory": false,
+            "size": 157,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "c2472e898b280950e9ba485e51b64cbedba207d3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSelectionChange/PropertyPriceSelectionChange.evt-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSelectionChange/PropertyPriceSelectionChange.evt-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider",
+            "isDirectory": true,
+            "size": 238,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "9a8009aa2bc3bde3a744ce0a2f97f3c568bb696c",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider/PropertyPriceSlider.cmp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider/PropertyPriceSlider.cmp",
+            "isDirectory": false,
+            "size": 373,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "0cf6551ff7d10f477bc0918c5ccab4958d8a44a8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider/PropertyPriceSlider.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider/PropertyPriceSlider.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider/PropertyPriceSlider.css",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider/PropertyPriceSlider.css",
+            "isDirectory": false,
+            "size": 340,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "8ae5bfd9b271f3e4b7f6b220f1500f29790c986d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider/PropertyPriceSliderController.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider/PropertyPriceSliderController.js",
+            "isDirectory": false,
+            "size": 923,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "423153c8f5770c56bdaa17886e22309a477a2b21",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider/PropertyPriceSliderHelper.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertyPriceSlider/PropertyPriceSliderHelper.js",
+            "isDirectory": false,
+            "size": 81,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "75e4f5ffb797e9b84046854554eefa9300e789a7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchBar",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchBar",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "da3ce10c7869d458a721df8e6918927a2d55966a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchBar/PropertySearchBar.cmp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchBar/PropertySearchBar.cmp",
+            "isDirectory": false,
+            "size": 824,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "28d27abcc73c601f954c99ddd7ca9d280f1cec16",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchBar/PropertySearchBar.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchBar/PropertySearchBar.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchBar/PropertySearchBar.css",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchBar/PropertySearchBar.css",
+            "isDirectory": false,
+            "size": 681,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "cde320263f09693912ee9083857051a867449b69",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchBar/PropertySearchBarController.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchBar/PropertySearchBarController.js",
+            "isDirectory": false,
+            "size": 487,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "83350610693f34d7d282e25155c05054dc7846b8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchKeyChange",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchKeyChange",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "b3121c71c58870b930f3aa240c99cd0debc72bda",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchKeyChange/PropertySearchKeyChange.evt",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchKeyChange/PropertySearchKeyChange.evt",
+            "isDirectory": false,
+            "size": 98,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "3337f0c216a88a5ca58b4c0fd4713ab890aaabcf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchKeyChange/PropertySearchKeyChange.evt-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/PropertySearchKeyChange/PropertySearchKeyChange.evt-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/svg",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/svg",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "8c2f599d3076d3785074245ed01d3ffcb6c2c83d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/svg/svg.cmp",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/svg/svg.cmp",
+            "isDirectory": false,
+            "size": 397,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "efdfef8737208bb1b7fa7105f1568dc7dde03061",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/svg/svg.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/svg/svg.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 223,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "afe7512878c1d7484995e780310d56d2cdd641ca",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/svg/svgController.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/svg/svgController.js",
+            "isDirectory": false,
+            "size": 60,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "9fc7736232d1d9d7a40c4cea1d6b22e712d8f8b1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/svg/svgRenderer.js",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/aura/svg/svgRenderer.js",
+            "isDirectory": false,
+            "size": 530,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "d608cb04cd7dace0a26749f156f26d30108b1adc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1487848083000,
+            "changeTime": 1487848083000,
+            "contentHash": "75f5d1e0b7cdbcae6be32072b0c75bc759b1ebd1"
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/PropertyController.cls",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/PropertyController.cls",
+            "isDirectory": false,
+            "size": 1375,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "7f208506a0141f2322d09f530132cb0cea16c204",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/PropertyController.cls-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/PropertyController.cls-meta.xml",
+            "isDirectory": false,
+            "size": 182,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "cda1a1870d00bec874227a57cdc5d5a035383ba9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/PropertyPagedResult.cls",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/PropertyPagedResult.cls",
+            "isDirectory": false,
+            "size": 364,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "af5ce9bf94959fb57379c0f2374b980096891dd8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/PropertyPagedResult.cls-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/PropertyPagedResult.cls-meta.xml",
+            "isDirectory": false,
+            "size": 169,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "81ed759bb943347ad6d4d2b0aceb6ffebe3c7d8c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/flexipages",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "acc0f4dec1501866f499d4febcd7a93e2add31d7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/flexipages/Property_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "size": 2922,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "aed43eb54c3f4a3434152f872273e46ad130fefd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/layouts",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/layouts",
+            "isDirectory": true,
+            "size": 170,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "4e8edd42e462b1d2335e54880b618b08445e9212",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/layouts/Broker__c-Broker Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/layouts/Broker__c-Broker Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 2908,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "857ba26229d82a5823f11ddb56007b7b5e7ad8b0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/layouts/Favorite__c-Favorite Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/layouts/Favorite__c-Favorite Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 1928,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "ee41c1774ffc1bb979a3051054b72a9ab725c5a2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/layouts/Property__c-Property Layout.layout-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/layouts/Property__c-Property Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 5873,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "0100ff4e5220929950cb94edc60b664260ccb058",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/objects",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/objects",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "c533753186112f0e5bb7e7a57d25b21c703b9569",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/objects/Broker__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/objects/Broker__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 4215,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "1fc2dfb1399aef57c494c4e5fc700d94bc2c652f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/objects/Case.object-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/objects/Case.object-meta.xml",
+            "isDirectory": false,
+            "size": 602,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "e4a51260796c4c32597acf18eba5e65132ec7332",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/objects/Favorite__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/objects/Favorite__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 3131,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "797dc3e9de6e75e8dddea9b026fe5be508284d8a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/objects/Property__c.object-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/objects/Property__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 10691,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "779f45f7e5ce8e0ab9bb190a747c7bfacdb3b7c6",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/pages",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/pages",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "b3d29f634e53c32472d84b10bbb1d197a64dc8a4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/pages/SmartHome.page",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/pages/SmartHome.page",
+            "isDirectory": false,
+            "size": 13632,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "4a50daeadc908c8df06b64968bc798d3243f1c1a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/pages/SmartHome.page-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/pages/SmartHome.page-meta.xml",
+            "isDirectory": false,
+            "size": 275,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "b66661bbf1110d789d8cdd3c226f941af8cdb87b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/permissionsets",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/permissionsets",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "e790bf51c03a2ab8137b34755957f7f33a25101f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/permissionsets/DreamHouse.permissionset-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/permissionsets/DreamHouse.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 7899,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "e70e7d4032ef3ddcdec75749e20683a38122ddc8",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources",
+            "isDirectory": true,
+            "size": 476,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "cdc1a17224baea808765da0f23e82e5e9de39efa",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/SLDS100.resource",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/SLDS100.resource",
+            "isDirectory": false,
+            "size": 89949,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "d4997ec75e5a71aebec5171214daf516c0618632",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/SLDS100.resource-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/SLDS100.resource-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "e842061f46502a4c4602359a6eda6b442259c9b3",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/SmartHomeVFP_styles.resource",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/SmartHomeVFP_styles.resource",
+            "isDirectory": false,
+            "size": 676,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "93100995924b2ffc48f0521f32444e3317b239c4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/SmartHomeVFP_styles.resource-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/SmartHomeVFP_styles.resource-meta.xml",
+            "isDirectory": false,
+            "size": 198,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "3bea615824f95893ce292621df41e4da422d6882",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/jquery.resource",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/jquery.resource",
+            "isDirectory": false,
+            "size": 85659,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "e3dbb65f2b541d842b50d37304b0102a2d5f2387",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/jquery.resource-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/jquery.resource-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "0940b754acc6542b79c992aa004cb6013499a457",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/leaflet.resource",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/leaflet.resource",
+            "isDirectory": false,
+            "size": 102283,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "7e0d77f4a164d682f88afb12971d5e28a8f2586d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/leaflet.resource-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "45a198628c36f529d329c29e6fdc2df6e0f19f1a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/nouislider.resource",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/nouislider.resource",
+            "isDirectory": false,
+            "size": 25325,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "97de25e503e85c9cb8a7ff77f495a889a0c900ad",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/nouislider.resource-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/nouislider.resource-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "45a198628c36f529d329c29e6fdc2df6e0f19f1a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/smarthome.resource",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/smarthome.resource",
+            "isDirectory": false,
+            "size": 16986,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "2a0570ea4f0eb38efe047fd682d1aeebf4a6d87a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/smarthome.resource-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/staticresources/smarthome.resource-meta.xml",
+            "isDirectory": false,
+            "size": 205,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "45a198628c36f529d329c29e6fdc2df6e0f19f1a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/tabs",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/tabs",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "ab2489458a680824081b1a2af20b72e2eef8bcce",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/tabs/Broker__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/tabs/Broker__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 219,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "698a412302adad3d0a3ed4ebe77b2c0da404b00f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/tabs/Property_Explorer.tab-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/tabs/Property_Explorer.tab-meta.xml",
+            "isDirectory": false,
+            "size": 262,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "7718f231751e23461e1eddf3f28b6fd626463588",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/tabs/Property__c.tab-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/tabs/Property__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 226,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "5bdec99cf7797a2b5fc644737b694460b954fd83",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/tabs/Smart_Home.tab-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/tabs/Smart_Home.tab-meta.xml",
+            "isDirectory": false,
+            "size": 244,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "1625e0b3360eca38099e6c4393af1af5053c3156",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/triggers",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/triggers",
+            "isDirectory": true,
+            "size": 136,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "f5b4efa8542db044a6d7ff4373bd3a984ca215b3",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/triggers/RejectDuplicateFavorite.trigger",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/triggers/RejectDuplicateFavorite.trigger",
+            "isDirectory": false,
+            "size": 376,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "f8e15f87fc0087c3e16d732f43eb7d35e610bf9a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/triggers/RejectDuplicateFavorite.trigger-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/triggers/RejectDuplicateFavorite.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 173,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "eb79c24bdc7c3e33bcf09abcfa8d82b8f7de43f9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default",
+            "isDirectory": true,
+            "size": 102,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default/classes",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default/classes",
+            "isDirectory": true,
+            "size": 204,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "6c4f409e1d13f3e540be94e3167b1535a8329045",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default/classes/PropertyControllerTest.cls",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default/classes/PropertyControllerTest.cls",
+            "isDirectory": false,
+            "size": 907,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "7369d39dfdedc0e87a9d7b855da348505517452f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default/classes/PropertyControllerTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default/classes/PropertyControllerTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 170,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "ae70d8170dc323d0eec9f70b52472b2a8fe28077",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default/classes/RejectDuplicateFavoriteTest.cls",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default/classes/RejectDuplicateFavoriteTest.cls",
+            "isDirectory": false,
+            "size": 1654,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "3f599e644e9ee15c9ae515fb8f07f305792d30ae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default/classes/RejectDuplicateFavoriteTest.cls-meta.xml",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/test/default/classes/RejectDuplicateFavoriteTest.cls-meta.xml",
+            "isDirectory": false,
+            "size": 170,
+            "modifiedTime": 1487844980000,
+            "changeTime": 1487845288000,
+            "contentHash": "ae70d8170dc323d0eec9f70b52472b2a8fe28077",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan",
+        {
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan",
+            "isDirectory": true,
+            "size": 544,
+            "modifiedTime": 1487847118000,
+            "changeTime": 1487847118000,
+            "contentHash": "b567a6e59ff6e4a3d404b836226f0bf3cca44f0e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/testStatus.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/testStatus.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1487848083000,
+            "changeTime": 1487848083000,
+            "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30"
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/testStatus.cls",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/testStatus.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 28,
+            "modifiedTime": 1487848083000,
+            "changeTime": 1487848083000,
+            "contentHash": "fa9ab08905d55920836d796adc1015a7d6a0ef03"
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/profiles/TestStatus.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/profiles/TestStatus.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 15365,
+            "modifiedTime": 1487848083000,
+            "changeTime": 1487848083000,
+            "contentHash": "40f2806d62b1ae21294504b34d562881d486bdb9"
+        }
+    ],
+    [
+        "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1487848083000,
+            "changeTime": 1487848083000,
+            "contentHash": "2f115abc48dcda1163487b06cc57dd3465e459be"
+        }
+    ]
+]

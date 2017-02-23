@@ -1,8 +1,8 @@
 {
-  "Company": "Your Company",
-  "Country": "US",
-  "LastName": "lastname",
-  "Email": "xxx@xxx.com",
+  "Company": "Ivan Company",
+  "Country": "GB",
+  "LastName": "Almeida",
+  "Email": "ivan.d.almeida@accenture.com",
   "Edition": "Developer",
   "OrgPreferences" : {
     "S1DesktopEnabled" : true
