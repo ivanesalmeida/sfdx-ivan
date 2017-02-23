@@ -32,14 +32,14 @@
     [
         "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default",
         {
-            "state": "u",
             "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 476,
             "modifiedTime": 1487848083000,
             "changeTime": 1487848083000,
-            "contentHash": "a0c195acee33c2d5dd7092dd460f5221944fbc57"
+            "contentHash": "a0c195acee33c2d5dd7092dd460f5221944fbc57",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1185,14 +1185,14 @@
     [
         "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 272,
             "modifiedTime": 1487848083000,
             "changeTime": 1487848083000,
-            "contentHash": "75f5d1e0b7cdbcae6be32072b0c75bc759b1ebd1"
+            "contentHash": "75f5d1e0b7cdbcae6be32072b0c75bc759b1ebd1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1938,8 +1938,8 @@
             "isDirectory": false,
             "isMetadataFile": true,
             "size": 174,
-            "modifiedTime": 1487848083000,
-            "changeTime": 1487848083000,
+            "modifiedTime": 1487858500000,
+            "changeTime": 1487858500000,
             "contentHash": "d3aef1962f612e7e3db36e965fa06b72bf50ee30"
         }
     ],
@@ -1950,36 +1950,36 @@
             "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/classes/testStatus.cls",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 28,
-            "modifiedTime": 1487848083000,
-            "changeTime": 1487848083000,
-            "contentHash": "fa9ab08905d55920836d796adc1015a7d6a0ef03"
+            "size": 34,
+            "modifiedTime": 1487858500000,
+            "changeTime": 1487858500000,
+            "contentHash": "1effffe47102a9f1445000436e3dc6acfdc2ba95"
         }
     ],
     [
         "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/profiles/TestStatus.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/profiles/TestStatus.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 15365,
             "modifiedTime": 1487848083000,
             "changeTime": 1487848083000,
-            "contentHash": "40f2806d62b1ae21294504b34d562881d486bdb9"
+            "contentHash": "40f2806d62b1ae21294504b34d562881d486bdb9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/profiles",
         {
-            "state": "u",
             "sourcePath": "/Users/ivan.d.almeida/Documents/Git-Repositories/sfdx-ivan/force-app/main/default/profiles",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 102,
             "modifiedTime": 1487848083000,
             "changeTime": 1487848083000,
-            "contentHash": "2f115abc48dcda1163487b06cc57dd3465e459be"
+            "contentHash": "2f115abc48dcda1163487b06cc57dd3465e459be",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ]
 ]
